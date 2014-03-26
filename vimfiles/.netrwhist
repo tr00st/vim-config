@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='C:/inetpub/wwwroot/pub_code'
+let g:netrw_dirhist_2='C:/inetpub/wwwroot/pub_code/multitiletype'
+let g:netrw_dirhist_3='C:\Program Files (x86)\GeoServer 2.2.2\data_dir\styles\tmp'
+let g:netrw_dirhist_4='C:\Users\jamesc\Downloads\vim\vim73'
+let g:netrw_dirhist_5='C:/Program Files (x86)/GeoServer 2.2.2/data_dir/styles'
+let g:netrw_dirhist_6='C:/Program Files (x86)/GeoServer 2.2.2/data_dir/styles/tmp'
